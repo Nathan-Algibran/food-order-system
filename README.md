@@ -1,5 +1,3 @@
-<img width="1897" height="912" alt="Screenshot 2026-04-23 233813" src="https://github.com/user-attachments/assets/9a06ef82-383f-42b7-b2b1-666f1df7baa8" /><img width="1919" height="967" alt="Screenshot 2026-04-23 233504" src="https://github.com/user-attachments/assets/63ffbdd2-a598-4dff-a4dd-fbbcf7645dbd" /><img width="1902" height="958" alt="Screenshot 2026-04-23 233452" src="https://github.com/user-attachments/assets/91492b69-ab8e-4f0b-8f29-26fc0921de05" /><img width="1893" height="969" alt="Screenshot 2026-04-21 180432" src="https://github.com/user-attachments/assets/5a5a9eb9-c153-4514-bfa7-a0428e476e93" /><img width="1898" height="965" alt="Screenshot 2026-04-21 183139" src="https://github.com/user-attachments/assets/696565fe-9b03-4f9a-aec2-a19e06e8f3b9" /><div align="center">
-
 # 🍱 Food-Order-system
 ### Platform pemesanan makanan online berbasis web
 
